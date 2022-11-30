@@ -1,0 +1,21 @@
+.env file
+
+SECRET_KEY=django-insecure-xlxt!)^(jfw&0+@r!3md8loj&3b_o&u=x9+x2(uo9g=ok$mami
+DEBUG=True
+
+#database configeration
+
+DB_NAME=foodOnline_db
+DB_USER=postgres
+DB_PASSWORD=Yiannis67
+DB_HOST=localhost
+
+
+# Email configuration
+
+EMAIL_BACKEND=django.core.mail.backends.smtp.EmailBackend
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=587
+EMAIL_HOST_USER=foodorderonline67@gmail.com
+EMAIL_HOST_PASSWORD='key'xhfiwtikmcfutswx
+DEFAULT_FROM_EMAIL=default from email
